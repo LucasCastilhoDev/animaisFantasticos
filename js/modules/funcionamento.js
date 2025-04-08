@@ -35,7 +35,7 @@ export default class Funcionamento {
   init() {
     if (this.funcionamento) {
       this.dadosFuncionamento();
-      this.dadosAgoraa();
+      this.dadosAgora();
       this.ativaAberto();
     }
     return this;
